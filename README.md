@@ -1,3 +1,3 @@
 # Notion-eJPT-Template
 
-Used Notion app
+Used Notion app: https://www.notion.so/
